@@ -1,0 +1,10 @@
+.container{
+    background-color: blue;
+}
+.caja{
+    height: 200px;
+    margin: 50px;
+    border: 10px solid #65bc43;
+    padding: 50px;
+    background-color: brown;
+}
